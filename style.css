@@ -1,0 +1,14 @@
+h1{
+    font-family: Arial, sans-serif;
+    background-color: rgb(122, 0, 0);
+    color: white;
+    text-align: center;
+}
+td{
+    text-align: center;
+    background-color: rgb(156, 155, 155);
+}
+button{
+    border-radius: 10px;
+    background-color: rgb(62, 165, 235);
+}
